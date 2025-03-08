@@ -12,7 +12,7 @@ def connect_to_database():
         user='Krishna',
         password='#Testing@1234',
         database='returnprocessingagent',
-        ssl_ca='F:\Final project\Python Files\DigiCertGlobalRootCA.crt.pem',  # Update this path
+        ssl_ca='DigiCertGlobalRootG2.crt.pem',  # Update this path
         ssl_disabled=False
     )
 
