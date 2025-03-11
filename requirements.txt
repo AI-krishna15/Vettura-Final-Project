@@ -1,0 +1,8 @@
+gradio
+numpy
+requests
+mysql-connector-python
+google-cloud-vision
+tensorflow
+pillow
+scikit-learn
